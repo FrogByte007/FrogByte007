@@ -1,7 +1,5 @@
 [Для русскоговорящих](https://github.com/ivaniumx/ivaniumx/blob/main/README_ru.md)
-<div align="center">
-   # Hi👋 I’m Ivan, 16 years old
-</div>
+# Hi👋 I’m Ivan, 16 years old
 - 👀 I’m interested Software and Game Development
 - 🌱 I’m currently learning Web Development 
 - 📫 How to reach me @ivaniumx in Telegram
