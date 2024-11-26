@@ -5,6 +5,8 @@
 - 📫 How to reach me @ivaxxo in Telegram
 - My favorite language:
 - C++
+- Rust
+- C#
 - Most of all, I am passionate about software development
 
 <!---
